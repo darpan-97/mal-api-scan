@@ -1,3 +1,5 @@
+![Mal-API-Scan Logo](mal-api-scan-logo.png)
+
 # Mal-API-Scan
 
 ## Overview
