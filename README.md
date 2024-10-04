@@ -4,7 +4,7 @@
 
 ## Overview
 
-Mal-API-Scan is a command-line utility designed to analyze the API calls made by executable files (PE files). It identifies suspicious API calls based on predefined categories sourced from malapi.io and outputs the results in a readable format. The tool can recursively analyze DLLs imported by the executable and provide insights into potential malicious behaviors.
+Mal-API-Scan is a command-line utility designed to analyze the API calls made by executable files (PE files). It identifies suspicious API calls based on predefined categories sourced from malapi.io (https://malapi.io/) and outputs the results in a readable format. The tool can recursively analyze DLLs imported by the executable and provide insights into potential malicious behaviors.
 
 ## Features
 
